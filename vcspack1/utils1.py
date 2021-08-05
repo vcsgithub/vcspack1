@@ -4,7 +4,7 @@ The parameters are of variable length.
 '''
 
 __author__ = 'vinay'
-__version__ = 0.2
+__version__ = "alpha_1"
 
 
 def myvsum(*args):
